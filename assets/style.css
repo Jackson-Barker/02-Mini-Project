@@ -1,5 +1,6 @@
 * {
   color: purple;
+  background-color:dimgrey;
 }
 
 header h1 {
@@ -10,30 +11,82 @@ header h1 {
   display: flex;
   flex-direction: column;
   text-align: center;
-}
+<<<<<<< HEAD
+=======
 
+}
+ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  
+>>>>>>> 92ac73a51c95b9670468116387aad5c314dc8c90
+}
 .css-snippets {
   display: flex;
-  justify-content: space-evenly;
   flex-direction: row;
+  flex-wrap: wrap;
+  
+}
+
+li {
+  width: 30%;
+  text-align: center;
+}
+
+#code {
+  color:white;
+
 }
 
 #flexbox-row {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 #flexbox-column {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 #css-grid-layout {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 #linear-gradients {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 #box-transition-glow {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 #overlay-card-title {
+  border: white dashed;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 10px;
 }
 
 footer {
