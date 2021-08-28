@@ -1,0 +1,35 @@
+header h1 {
+  color: purple;
+  text-align: center;
+}
+
+.section-one {
+  text-align: center;
+}
+
+.css-snippets {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: row;
+}
+
+#flexbox-row {
+}
+
+#flexbox-column {
+}
+
+#css-grid-layout {
+}
+
+#linear-gradients {
+}
+
+#box-transition-glow {
+}
+
+#overlay-card-title {
+}
+
+footer {
+}
